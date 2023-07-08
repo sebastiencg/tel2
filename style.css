@@ -1,0 +1,29 @@
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: black;
+}
+.divHeader{
+    color: white;
+    background-color: black;
+    height: 60px;
+}
+.divHeader:hover{
+    background-color: black;
+}
+.divHeaderText,.divHeaderText2{
+    color: white;
+}
+.divHeaderText2:hover{
+    color: black;
+}
+.divHeaderText:hover{
+    color: white;
+}
+.banner{
+    background-color: black;
+    background-size: cover ;
+    width: 100%;
+    height: 100%;
+}
+
