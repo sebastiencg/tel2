@@ -3,10 +3,18 @@
     padding-bottom: 0;
     background-color: black;
 }
-.divHeader{
+.divHeader1{
     color: white;
     background-color: black;
     height: 60px;
+}
+.divHeader{
+    color: white;
+    background-color: black;
+}
+.navbarResponsive{
+    padding-left: 10px;
+    border-radius: 10px;
 }
 .divHeader:hover{
     background-color: black;
